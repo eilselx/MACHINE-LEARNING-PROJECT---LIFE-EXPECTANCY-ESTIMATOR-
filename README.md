@@ -133,7 +133,7 @@ By the end of this project, we aim to:
 
 | Team Member | Responsibility |
 |--------------|----------------|
-| **Shikhin** | Problem Definition, Data Collection, Dataset Understanding, Data Dictionary |
+| **Sikhin** | Problem Definition, Data Collection, Dataset Understanding, Data Dictionary |
 | **Lavanya** | Data Cleaning, Preprocessing, Exploratory Data Analysis (EDA), Data Visualization |
 | **Advait** | Statistical Analysis, Correlation Analysis, Feature Engineering, Feature Selection |
 | **Leslie** | Machine Learning Model Development, Model Training, Hyperparameter Tuning, Model Comparison |
