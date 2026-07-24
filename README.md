@@ -181,7 +181,7 @@ By the end of this project, we aim to:
 
 ---
 
-# Supervisor
+# Supervisor - Ghosh Srinjoy
 
 **Statistics and Machine Learning**
 
