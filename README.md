@@ -136,7 +136,7 @@ By the end of this project, we aim to:
 | **Shikhin** | Problem Definition, Data Collection, Dataset Understanding, Data Dictionary |
 | **Lavanya** | Data Cleaning, Preprocessing, Exploratory Data Analysis (EDA), Data Visualization |
 | **Advait** | Statistical Analysis, Correlation Analysis, Feature Engineering, Feature Selection |
-| **Leslie Wambo Laghom** | Machine Learning Model Development, Model Training, Hyperparameter Tuning, Model Comparison |
+| **Leslie** | Machine Learning Model Development, Model Training, Hyperparameter Tuning, Model Comparison |
 | **Omar** | Model Evaluation, Feature Importance Analysis, Final Report, Presentation Preparation |
 
 ---
