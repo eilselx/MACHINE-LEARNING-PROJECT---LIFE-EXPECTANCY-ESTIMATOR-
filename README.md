@@ -100,25 +100,23 @@ Examples include:
 
 # Machine Learning Models
 
-The following regression models will be implemented and compared:
+To identify the most suitable algorithm for predicting life expectancy, multiple regression models will be trained, evaluated, and compared.
 
-- Linear Regression
+The models include:
+
+- Linear Regression (Baseline Model)
 - Decision Tree Regressor
 - Random Forest Regressor
 - Gradient Boosting Regressor
-- XGBoost Regressor (Optional)
+- XGBoost Regressor
 
----
-
-# Evaluation Metrics
-
-Model performance will be evaluated using:
+Each model will be evaluated using the same training and testing data and compared based on:
 
 - Mean Absolute Error (MAE)
 - Root Mean Squared Error (RMSE)
 - R² Score
 
----
+The model that achieves the best predictive performance while maintaining good generalization will be selected as the final model.
 
 # Expected Outcomes
 
