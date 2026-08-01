@@ -137,7 +137,7 @@ By the end of this project, we aim to:
 | **Lavanya** | Data Cleaning, Preprocessing, Exploratory Data Analysis (EDA), Data Visualization |
 | **Advait** | Statistical Analysis, Correlation Analysis, Feature Engineering, Feature Selection |
 | **Leslie** | Machine Learning Model Development, Model Training, Hyperparameter Tuning, Model Comparison |
-| **Omar--** | Model Evaluation, Feature Importance Analysis, Final Report, Presentation Preparation |
+| **Omar** | Model Evaluation, Feature Importance Analysis, Final Report, Presentation Preparation |
 
 ---
 
