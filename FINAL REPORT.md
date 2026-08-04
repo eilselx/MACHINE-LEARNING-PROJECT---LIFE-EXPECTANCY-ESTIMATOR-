@@ -105,10 +105,10 @@ Models were evaluated using:
 | Model | MAE | RMSE | R² |
 |------|------:|------:|------:|
 | **XGBoost** | **0.423** | **0.701** | **0.9936** |
-| Random Forest | 0.429 | 0.734 | 0.9930 |
-| Decision Tree | 0.632 | 1.064 | 0.9853 |
-| Gradient Boosting | 0.844 | 1.121 | 0.9837 |
-| Linear Regression | 1.365 | 1.824 | 0.9569 |
+| Random Forest | 0.427 | 0.731 | 0.9930 |
+| Decision Tree | 0.633 | 1.065 | 0.9852 |
+| Gradient Boosting | 0.843 | 1.120 | 0.9837 |
+| Linear Regression | 1.374 | 1.801 | 0.9578 |
 
 ---
 
